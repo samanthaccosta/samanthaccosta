@@ -1,5 +1,5 @@
 ### Oii!! Bem vindes, eu sou Samantha Costa 👋🏻
-- 📚 Estudade da Universidade Federal do ABC
+- 📚 Estudante da Universidade Federal do ABC
 - 🚀 Atualmente participando do bootcamp da Generation Brasil
 - 💻 Professora de programação basica na Byjus Future School
 
