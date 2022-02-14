@@ -1,6 +1,6 @@
 ### Oii!! Bem vindes, eu sou Samantha Costa 👋🏻
 - 📚 Estudante da Universidade Federal do ABC
-- 🚀 Atualmente participando do bootcamp da Generation Brasil
+- 🚀 Desenvolvedora Java full stack Jr pela Generation Brasil
 - 💻 Professora de programação basica na Byjus Future School
 
 
