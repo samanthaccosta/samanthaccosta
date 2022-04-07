@@ -2,7 +2,7 @@
 - 📚 Estudante da Universidade Federal do ABC
 - 🚀 Desenvolvedora Java full stack Jr pela Generation Brasil
 - 👩‍🏫 Professora de programação basica na Byjus Future School
-- 💻Participantte do projeto Carambola 
+- 💻Participante do projeto Carambola 
 
 
 <div align="center">
